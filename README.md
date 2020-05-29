@@ -1,6 +1,6 @@
 # phone-web-app
  
-## screeshots
+## screenshots
 ![](./img/index1.jpg)
 
 ![](./img/add.jpg)
